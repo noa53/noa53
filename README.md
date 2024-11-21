@@ -19,6 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noa53&show_icons=true&locale=en&layout=compact" alt="noa53" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noa53&show_icons=true&locale=en" alt="noa53" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noa53&" alt="noa53" /></p>
