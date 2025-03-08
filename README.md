@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noa53" alt="noa53" /></a> </p>
 
-- Member of sports team [Fortify Support Team](https://discord.gg/v5cDR9cUNf)
+- Member of sports team [Fortify Support Team](https://discord.gg/CVRsP4sDTV)
 
 - My Bot [Noa Lune Bot](https://discord.com/oauth2/authorize?client_id=1308428927374594118&permissions=552910023798&integration_type=0&scope=bot+applications.commands)
 
